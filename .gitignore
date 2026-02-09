@@ -1,0 +1,16 @@
+venv/
+.venv/
+myenv/
+__pycache__/
+*.pyc
+
+# Сборки и EXE
+dist/
+build/
+*.spec
+*.exe
+installer_assets/
+
+# Секреты
+.env
+src/.env

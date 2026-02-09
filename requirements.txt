@@ -1,0 +1,9 @@
+PySide6
+ollama
+pypdf
+beautifulsoup4
+lxml
+numpy
+rank_bm25
+python-dotenv
+requests
