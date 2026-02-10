@@ -4,13 +4,13 @@ myenv/
 __pycache__/
 *.pyc
 
-# Сборки и EXE
-dist/
+# пїЅпїЅпїЅпїЅпїЅпїЅ пїЅ EXE
+#dist/
 build/
 *.spec
 *.exe
 installer_assets/
 
-# Секреты
+# пїЅпїЅпїЅпїЅпїЅпїЅпїЅ
 .env
 src/.env
